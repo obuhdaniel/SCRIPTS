@@ -11,9 +11,9 @@ pip install pandas xlrd
 
 ## Usage
 
-### 1 clone the Repo
+### 1 Clone the Repo
 ```bash
-git clone https://github.com/your-username/translation-automation.git
+git clone https://github.com/your-username/translate_codebase.git
 cd translation-automation
 ```
 
