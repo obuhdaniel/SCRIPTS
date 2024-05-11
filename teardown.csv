@@ -1,0 +1,673 @@
+实时监控,Real-time monitoring
+存储信息,Storage information
+存储信息,Storage information
+参数设置,Parameter setting
+参数设置,Parameter setting
+系统设置,System setting
+系统设置,System setting
+导出数据,Export data
+支持的协议,Supported protocols
+本上位机仅支持以下协议,This host only supports the following protocols
+并机监控,Parallel machine monitoring
+并机监控,Parallel machine monitoring
+上位机设置,Host computer settings
+其他设置,Other settings
+版本:,Version:
+BMS S/N:,BMS S/N:
+PACK S/N:,PACK S/N:
+协议编号:,Protocol number:
+生产信息:,Production information:
+通讯:,Communication:
+打开,Open
+关闭,Close
+关闭,Close
+关闭,Close
+关闭,Close
+关机,Shutdown
+关闭,Close
+电池信息,Battery information
+总电压,Total voltage
+电流,Current
+SOC,SOC
+SOH,SOH
+剩余容量,Remaining capacity
+满充容量,Full charge capacity
+汇总剩余容量,Summary remaining capacity
+汇总满充容量,Summary full charge capacity
+循环次数,Cycle count
+--,--
+独立总压,Independent total voltage
+独立电流,Independent current
+温度信息(℃),Temperature information (℃)
+温度1,Temperature1
+温度2,Temperature2
+温度3,Temperature3
+温度4,Temperature4
+温度5,Temperature5
+温度6,Temperature6
+温度7,Temperature7
+温度8,Temperature8
+温度9,Temperature9
+温度10,Temperature10
+温度11,Temperature11
+温度12,Temperature12
+温度13,Temperature13
+温度14,Temperature14
+温度15,Temperature15
+温度16,Temperature16
+温度17,Temperature17
+温度18,Temperature18
+温度19,Temperature19
+温度20,Temperature20
+温度21,Temperature21
+温度22,Temperature22
+温度23,Temperature23
+温度24,Temperature24
+温度25,Temperature25
+温度26,Temperature26
+温度27,Temperature27
+温度28,Temperature28
+温度29,Temperature29
+温度30,Temperature30
+温度31,Temperature31
+温度32,Temperature32
+温度33,Temperature33
+温度34,Temperature34
+温度35,Temperature35
+温度36,Temperature36
+温度37,Temperature37
+温度38,Temperature38
+温度39,Temperature39
+温度40,Temperature40
+温度41,Temperature41
+温度42,Temperature42
+温度43,Temperature43
+温度44,Temperature44
+温度45,Temperature45
+温度46,Temperature46
+温度47,Temperature47
+温度48,Temperature48
+温度49,Temperature49
+温度50,Temperature50
+MOS,MOS
+环境,Environment
+单体电压(mV),Single cell voltage (mV)
+最高电压,Highest voltage
+--,--
+最低电压,Lowest voltage
+--,--
+压差,Voltage difference
+--,--
+电池1,Battery1
+电池2,Battery2
+电池3,Battery3
+电池4,Battery4
+电池5,Battery5
+电池6,Battery6
+电池7,Battery7
+电池8,Battery8
+电池9,Battery9
+电池10,Battery10
+电池11,Battery11
+电池12,Battery12
+电池13,Battery13
+电池14,Battery14
+电池15,Battery15
+电池16,Battery16
+串口,Serial port
+打开串口,Open serial port
+串口已打开,Serial port opened
+关闭串口,Close serial port
+串口已关闭,Serial port closed
+启动监控,Start monitoring
+尝试连接,Attempting connection
+发现可用串口，正在启动监控 …,Found available serial port, starting monitoring...
+停止监控,Stop monitoring
+波特率,Baud rate
+--,--
+地址,Address
+协议,Protocol
+启用监控,Enable monitoring
+时间间隔,Time interval
+秒,Seconds
+通讯类型,Communication type
+轮播,Carousel
+逆变器协议,Inverter protocol
+密码,Password
+CAN协议,CAN protocol
+485协议,485 protocol
+类型,Type
+读取,Read
+写入,Write
+系统状态,System status
+充电-关,Charging-Off
+有效充电电流,Effective charging current
+限流-关,Current limiting-Off
+ACin,ACin
+放电-关,Discharge-Off
+有效放电电流,Effective discharge current
+加热膜-关,Heating film-Off
+Fully,Fully
+关,Off
+开,On
+告警状态,Alarm status
+保护状态,Protection status
+故障状态,Fault status
+无,None
+开关控制,Switch control
+充电,Charging
+放电,Discharge
+声音告警,Sound alarm
+限流功能,Current limiting function
+指示灯告警,Indicator light alarm
+系统锁,System lock
+强制休眠,Forced sleep
+密码,Password
+修改,Modify
+清空,Clear
+切换语言,Switch language
+电脑语言:,Computer language:
+当前语言:,Current language:
+切换为:,Switch to:
+确定,OK
+取消,Cancel
+时间,Time
+序号,Serial number
+Pack_NO,Pack_NO
+BMS S/N,BMS S/N
+Pack S/N,Pack S/N
+地址,Address
+版本,Version
+主机版本,Host version
+主机BMS S/N,Host BMS S/N
+主机Pack S/N,Host Pack S/N
+独立总压(mV),Independent total voltage (mV)
+独立电流(mA),Independent current (mA)
+电流(A),Current (A)
+总电压(V),Total voltage (V)
+剩余容量(AH),Remaining capacity (AH)
+满充容量(AH),Full charge capacity (AH)
+SOC(%),SOC(%)
+循环次数,Cycle count
+SOH(%),SOH(%)
+汇总剩余容量(AH),Summary remaining capacity (AH)
+汇总满充容量(AH),Summary full charge capacity (AH)
+单体最高(mV),Single cell highest (mV)
+单体最低(mV),Single cell lowest (mV)
+压差(mV),Voltage difference (mV)
+告警类型,Alarm type
+保护类型,Protection type
+故障类型,Fault type
+上位机,Host computer
+电压1(mV),Voltage1 (mV)
+电压2(mV),Voltage2 (mV)
+电压3(mV),Voltage3 (mV)
+电压4(mV),Voltage4 (mV)
+电压5(mV),Voltage5 (mV)
+电压6(mV),Voltage6 (mV)
+电压7(mV),Voltage7 (mV)
+电压8(mV),Voltage8 (mV)
+电压9(mV),Voltage9 (mV)
+电压10(mV),Voltage10 (mV)
+电压11(mV),Voltage11 (mV)
+电压12(mV),Voltage12 (mV)
+电压13(mV),Voltage13 (mV)
+电压14(mV),Voltage14 (mV)
+电压15(mV),Voltage15 (mV)
+电压16(mV),Voltage16 (mV)
+温度1(℃),Temperature1 (℃)
+温度2(℃),Temperature2 (℃)
+温度3(℃),Temperature3 (℃)
+温度4(℃),Temperature4 (℃)
+温度5(℃),Temperature5 (℃)
+温度6(℃),Temperature6 (℃)
+温度7(℃),Temperature7 (℃)
+温度8(℃),Temperature8 (℃)
+温度9(℃),Temperature9 (℃)
+温度10(℃),Temperature10 (℃)
+温度11(℃),Temperature11 (℃)
+温度12(℃),Temperature12 (℃)
+温度13(℃),Temperature13 (℃)
+温度14(℃),Temperature14 (℃)
+温度15(℃),Temperature15 (℃)
+温度16(℃),Temperature16 (℃)
+温度17(℃),Temperature17 (℃)
+温度18(℃),Temperature18 (℃)
+温度19(℃),Temperature19 (℃)
+温度20(℃),Temperature20 (℃)
+温度21(℃),Temperature21 (℃)
+温度22(℃),Temperature22 (℃)
+温度23(℃),Temperature23 (℃)
+温度24(℃),Temperature24 (℃)
+温度25(℃),Temperature25 (℃)
+温度26(℃),Temperature26 (℃)
+温度27(℃),Temperature27 (℃)
+温度28(℃),Temperature28 (℃)
+温度29(℃),Temperature29 (℃)
+温度30(℃),Temperature30 (℃)
+温度31(℃),Temperature31 (℃)
+温度32(℃),Temperature32 (℃)
+温度33(℃),Temperature33 (℃)
+温度34(℃),Temperature34 (℃)
+温度35(℃),Temperature35 (℃)
+温度36(℃),Temperature36 (℃)
+温度37(℃),Temperature37 (℃)
+温度38(℃),Temperature38 (℃)
+温度39(℃),Temperature39 (℃)
+温度40(℃),Temperature40 (℃)
+温度41(℃),Temperature41 (℃)
+温度42(℃),Temperature42 (℃)
+温度43(℃),Temperature43 (℃)
+温度44(℃),Temperature44 (℃)
+温度45(℃),Temperature45 (℃)
+温度46(℃),Temperature46 (℃)
+温度47(℃),Temperature47 (℃)
+温度48(℃),Temperature48 (℃)
+温度49(℃),Temperature49 (℃)
+温度50(℃),Temperature50 (℃)
+MOS温度(℃),MOS temperature (℃)
+环境温度(℃),Environment temperature (℃)
+GPS状态,GPS status
+信号值,Signal value
+SIM是否插卡,Is SIM card inserted
+网络激活状态,Network activation status
+TCP连接状态,TCP connection status
+服务器连接状态,Server connection status
+PackSN状态,PackSN status
+网络状态,Network status
+只保留最近两个月的数据，请及时导出保存。,Only keep the data for the last two months, please export and save in time.
+所有记录表,All record tables
+导出数据,Export data
+导出数据,Export data
+删除表,Delete table
+删除全部,Delete all
+保存为,Save as
+√ 复制,√ Copy
+保存,Save
+保护表格数据,Protect table data
+发邮件到,Send email to
+(填写邮件地址),(Enter email address)
+发送人,Sender
+显示,Display
+清屏,Clear screen
+清屏,Clear screen
+保存到数据库,Save to database
+导出数据,Export data
+显示,Display
+选择最后一行,Select the last row
+表名,Table name
+重新保存,Re-save
+单行,Single row
+多行,Multiple rows
+列,Columns
+单元格,Cell
+无,None
+自动写入,Auto-write
+读取BMS时间,Read BMS time
+写入系统时间,Write system time
+范围:,Range:
+存储设置,Storage settings
+读取记录,Read records
+删除记录,Delete records
+保存记录,Save records
+开始时间,Start time
+结束时间,End time
+时间间隔,Time interval
+左键双击获取系统时间,Left-click to get system time
+左键双击获取系统时间,Left-click to get system time
+(分钟),(minutes)
+写入,Write
+写入,Write
+写入,Write
+读取,Read
+读取,Read
+读取,Read
+暂停,Pause
+继续,Continue
+单行,Single row
+多行,Multiple rows
+列,Columns
+单元格,Cell
+无,None
+选择最后一行,Select the last row
+时间,Time
+电压,Voltage
+温度,Temperature
+总电压(V),Total voltage (V)
+电流(A),Current (A)
+剩余容量(AH),Remaining capacity (AH)
+满充容量(AH),Full charge capacity (AH)
+保护,Protection
+保护2,Protection2
+故障,Fault
+告警,Alarm
+最高电压(mV),Highest voltage (mV)
+最低电压(mV),Lowest voltage (mV)
+环境温度(℃),Environment temperature (℃)
+MOS温度(℃),MOS temperature (℃)
+单体过充告警(V),Single overcharge alarm (V)
+单体过充保护(V),Single overcharge protection (V)
+单体过充保护恢复(V),Single overcharge protection recovery (V)
+单体过充保护延时(mS),Single overcharge protection delay (ms)
+总体过充告警(V),Total overcharge alarm (V)
+总体过充保护(V),Total overcharge protection (V)
+总体过充保护恢复(V),Total overcharge protection recovery (V)
+总体过充保护延时(mS),Total overcharge protection delay (ms)
+单体过放告警(V),Single overdischarge alarm (V)
+单体过放保护(V),Single overdischarge protection (V)
+单体过放保护恢复(V),Single overdischarge protection recovery (V)
+单体过放保护延时(mS),Single overdischarge protection delay (ms)
+总体过放告警(V),Total overdischarge alarm (V)
+总体过放保护(V),Total overdischarge protection (V)
+总体过放保护恢复(V),Total overdischarge protection recovery (V)
+总体过放保护延时(mS),Total overdischarge protection delay (ms)
+充电过流告警(A),Charging overcurrent alarm (A)
+充电过流保护(A),Charging overcurrent protection (A)
+充电过流保护延时(mS),Charging overcurrent protection delay (ms)
+放电过流告警(A),Discharge overcurrent alarm (A)
+放电过流保护1(A),Discharge overcurrent protection 1 (A)
+放电过流保护1延时(mS),Discharge overcurrent protection 1 delay (ms)
+放电过流保护2(A),Discharge overcurrent protection 2 (A)
+放电过流保护2延时(mS),Discharge overcurrent protection 2 delay (ms)
+短路保护延时(uS),Short circuit protection delay (μs)
+MOS高温告警(℃),MOS high temperature alarm (℃)
+MOS高温保护(℃),MOS high temperature protection (℃)
+MOS高温保护恢复(℃),MOS high temperature protection recovery (℃)
+环境低温告警(℃),Low temperature alarm (℃)
+环境低温保护(℃),Low temperature protection (℃)
+环境低温保护恢复(℃),Low temperature protection recovery (℃)
+环境高温告警(℃),High temperature alarm (℃)
+环境高温保护(℃),High temperature protection (℃)
+环境高温保护恢复(℃),High temperature protection recovery (℃)
+充电高温告警(℃),Charging high temperature alarm (℃)
+充电高温保护(℃),Charging high temperature protection (℃)
+充电高温保护恢复(℃),Charging high temperature protection recovery (℃)
+放电高温告警(℃),Discharge high temperature alarm (℃)
+放电高温保护(℃),Discharge high temperature protection (℃)
+放电高温保护恢复(℃),Discharge high temperature protection recovery (℃)
+均衡开启电压(V),Balance open voltage (V)
+均衡开启压差(mV),Balance open voltage difference (mV)
+单体休眠电压(V),Single cell sleep voltage (V)
+单体休眠延时(min),Single cell sleep delay (min)
+充电低温告警(℃),Charging low temperature alarm (℃)
+充电低温保护(℃),Charging low temperature protection (℃)
+充电低温保护恢复(℃),Charging low temperature protection recovery (℃)
+放电低温告警(℃),Discharge low temperature alarm (℃)
+放电低温保护(℃),Discharge low temperature protection (℃)
+放电低温保护恢复(℃),Discharge low temperature protection recovery (℃)
+电池包截止电压(V),Battery pack cut-off voltage (V)
+电池包截止电流(mA),Battery pack cut-off current (mA)
+低电量告警(%),Low battery warning (%)
+清屏,Clear screen
+读取参数,Read parameters
+写入参数,Write parameters
+恢复默认值,Restore default values
+导入参数,Import parameters
+导出参数,Export parameters
+设置默认值,Set default values
+电压(mV),Voltage (mV)
+电压基准,Voltage reference
+校准,Calibrate
+总电压,Total voltage
+校准,Calibrate
+SOC充放电阀值(%),SOC charge and discharge threshold (%)
+低电量停止放电,Stop discharge at low battery
+读取,Read
+写入,Write
+高电量停止充电,Stop charging at high battery
+读取,Read
+写入,Write
+其他设置,Other settings
+静置均衡,Static balancing
+关闭,Close
+打开,Open
+充电请求,Charge request
+充电请求电压(V),Charge request voltage (V)
+读取,Read
+写入,Write
+干接点,Dry contact
+干接点状态,Dry contact status
+SOC校准点参数,SOC calibration point parameters
+向下校准判断值-电压(mV),Downward calibration judgment value - voltage (mV)
+向下校准判断值-SOC(%),Downward calibration judgment value - SOC (%)
+向下校准设定值-SOC(%),Downward calibration set value - SOC (%)
+向上校准判断值-电压(mV),Upward calibration judgment value - voltage (mV)
+向上校准判断值-SOC(%),Upward calibration judgment value - SOC (%)
+电流（mA）,Current (mA)
+"充电电流
+(1000-650000mA)","Charging current
+(1000-650000mA)"
+校准,Calibrate
+复位,Reset
+零点电流,Zero current
+校准,Calibrate
+复位,Reset
+"放电电流
+(1000-650000mA)","Discharge current
+(1000-650000mA)"
+校准,Calibrate
+复位,Reset
+串数设置,Number of strings setting
+电池串数,Battery string count
+设置,Set
+充电限流设置,Charging current limit setting
+充电限流,Charging current limit
+设置,Set
+限流启动电流(A),Current limit start current (A)
+设置,Set
+读取,Read
+间隙式充电设置,Intermittent charging setting
+间隙式充电门限,Intermittent charging threshold
+设置,Set
+电量(mAH),Capacity (mAH)
+设计容量,Design capacity
+剩余容量,Remaining capacity
+满充容量,Full charge capacity
+读取,Read
+设置,Set
+其他设置,Other settings
+系统锁,System lock
+打开,Open
+关闭,Close
+静置均衡,Static balancing
+打开,Open
+关闭,Close
+IP地址/端口号设置,IP address/port number setting
+IP地址,IP address
+端口号,Port number
+读取,Read
+设置,Set
+充放电循环,Charge-discharge cycle
+循环次数,Cycle count
+设置,Set
+软件版本,Software version
+硬件版本,Hardware version
+读取,Read
+生产信息,Production information
+写入后清空输入框,Clear input box after writing
+禁止重复,Prohibit duplication
+BMS S/N,BMS S/N
+写入,Write
+清空,Clear
+禁止重复,Prohibit duplication
+PACK S/N,PACK S/N
+写入,Write
+清空,Clear
+进入测试模式,Enter test mode
+小板卫星数量,Small board satellite count
+小板卫星数量,Small board satellite count
+状态,Status
+读取,Read
+小板发送时间间隔,Small board transmission interval
+读取,Read
+写入,Write
+里程,Mileage
+总里程,Total mileage
+写入,Write
+读取,Read
+GPS小板版本,GPS board version
+版本,Version
+读取,Read
+GPS小板IP设置,GPS board IP setting
+IP类型,IP type
+GPS监控信息,GPS monitoring information
+信号值,Signal value
+GPS状态,GPS status
+SIM卡,SIM card
+网络激活状态,Network activation status
+TCP连接状态,TCP connection status
+服务器连接,Server connection
+Pack SN状态,Pack SN status
+网络状态,Network status
+上位机设置,Host computer setting
+上位机名称,Host computer name
+协议版本号,Protocol version number
+存储信息最大条数,Maximum number of storage information
+是否握手,Whether to handshake
+需要握手,Need to handshake
+是否自动连接,Whether to automatically connect
+是,Yes
+是否显示Logo,Whether to display Logo
+要显示,Display
+【参数设置】页面,【Parameter Settings】page
+显示“设置默认参数”按钮,Display "Set Default Parameters" button
+【系统设置】页面,【System Settings】page
+显示“电压”组,Display "Voltage" group
+显示“电流”组,Display "Current" group
+显示BMS SN,Display BMS SN
+显示Pack SN,Display Pack SN
+保存,Save
+生成,Generate
+确定,Confirm
+取消,Cancel
+"没有可用串口。请:
+
+1.检查通信线路是否完好
+2.确认已经安装通讯线驱动
+3.RS485可尝试其他拨码的通讯，比如拨0或1
+4.确认串口未被占用，拔插，重新打开
+",No available serial ports. Please:
+1. Check if the communication line is intact
+2. Confirm that the communication line driver is installed
+3. For RS485, try other communication settings, such as switching to 0 or 1
+4. Ensure that the serial port is not occupied, unplug and plug in again
+均衡,Balance
+正在搜索有效串口,尝试{0}次 ...,Searching for valid serial ports, trying {0} times ...
+连接失败，请接入有效串口,Connection failed, please connect to a valid serial port
+发现有效串口，正在获取数据…,Valid serial port found, getting data...
+修改密码,Change password
+原密码,Old password
+新密码,New password
+Chinese,English
+确认密码,Confirm password
+两次输入密码不一致,Passwords entered twice do not match
+原密码输入错误,Incorrect original password entered
+保存EXECL文件,Save EXCEL file
+EXECL文件,EXCEL file
+保存EXCEL成功,Save EXCEL successfully
+保存实时数据失败,Failed to save real-time data
+完成,Completed
+版本错误,Version error
+校验和错误,Checksum error
+校验码错误,Verification code error
+无效命令,Invalid command
+命令格式错误,Command format error
+无效数据,Invalid data
+写入错误,Write error
+ADDR错误,ADDR error
+通信错误,Communication error
+单体过压,Overvoltage of single cell
+单体低压,Low voltage of single cell
+总压过压,Overvoltage of total voltage
+总压低压,Low voltage of total voltage
+充电过流,Overcurrent during charging
+放电过流,Overcurrent during discharging
+充电高温,High temperature during charging
+放电高温,High temperature during discharging
+充电低温,Low temperature during charging
+放电低温,Low temperature during discharging
+环境高温,High ambient temperature
+环境低温,Low ambient temperature
+MOS高温,High MOS temperature
+电量低,Low power
+短路,Short circuit
+充电器高压,High voltage of charger
+充电器反接,Reverse connection of charger
+Fully,Fully
+充电MOS故障,MOS fault during charging
+放电MOS故障,MOS fault during discharging
+NTC故障,NTC fault
+电芯故障,Battery cell fault
+采样故障,Sampling fault
+限流板故障,Current limiting board fault
+加热膜故障,Heating film fault
+总压故障,Total voltage fault
+温差故障,Temperature difference fault
+采样电阻故障,Sample resistor fault
+限流mos开路,Current limiting MOS open circuit
+限流mos短路,Current limiting MOS short circuit
+检流电阻开路,Current detecting resistor open circuit
+检流电阻短路,Current detecting resistor short circuit
+脱扣器脱扣,Breaker tripping
+检流电阻故障,Current detecting resistor fault
+脱扣器故障,Breaker fault
+主机/从机掉线,Master/slave offline
+电池包锁定,Battery pack locked
+校准成功,Calibration successful
+请选择一个数值,Please select a value
+设置成功,Setting successful
+自动写入BMS时间成功,Automatic writing of BMS time successful
+自动写入BMS时间失败,Automatic writing of BMS time failed
+信息不能为空,Information cannot be empty
+存在输入范围有误的项,There are items with incorrect input range
+不能大于20个字符,Cannot exceed 20 characters
+不能大于{0}个字符,Cannot exceed {0} characters
+数格式不正确,Number format is incorrect
+放电电流校准范围:{0} ~ {1}mA,Discharge current calibration range: {0} ~ {1}mA
+数值范围：{0} ~ {1},Value range: {0} ~ {1}
+充电电流校准范围:{0} ~ {1}mA,Charging current calibration range: {0} ~ {1}mA
+总电压范围:{0} ~ {1}mV,Total voltage range: {0} ~ {1}mV
+电压基准范围:{0} ~ {1}mV,Voltage reference range: {0} ~ {1}mV
+读取成功,Read successful
+没有更多数据,No more data available
+正在读取中,Reading...
+{0}年{1}月{2}日 {3}时{4}分{5}秒,{0} year {1} month {2} day {3} hour {4} minute {5} second
+删除成功,Deletion successful
+删除失败,Deletion failed
+操作失败：这是上位机正在使用的表,Operation failed: This table is currently in use by the host computer
+未发现数据,No data found
+已清空,Cleared
+通信正常,Communication normal
+异常,Abnormal
+操作未被执行：正在读取存储信息，请等待其完成或先将其暂停,Operation not executed: Reading storage information, please wait for it to complete or pause it first
+该码已经被用，,This code has already been used,
+请使用其他编码。,Please use another code.
+失败：请先打开监控。,Failed: Please open monitoring first.
+单击可截图,Click to take a screenshot
+单击切换语言,Click to switch language
+双击复制,Double-click to copy
+这是一块山寨板！！！,This is a counterfeit board!!!
+协议不匹配,Protocol mismatch
+无数据,No data
+复制失败，请重试,Copy failed, please try again
+复制成功,Copy successful
+执行失败：结束值不能小于起始值。,Execution failed: The end value cannot be less than the start value.
+请正确输入范围值：{0}~{1}正数。,Please enter the range value correctly: {0}~{1} positive number.
+输入有误：正确范围{0}~{1}正整数,Input error: Correct range {0}~{1} positive integer
+(邮件已发送),(Email sent)
+(邮件发送失败),(Email sending failed)
+上位机【{0}】导出的数据,Data exported by host computer [{0}]
+操作失败：输入错误,Operation failed: Input error
+串口已打开,Serial port opened
+已插卡,Card inserted
+未插卡,No card inserted
+已激活,Activated
+未激活,Deactivated
+已连接,Connected
+未连接,Disconnected
+起始地址,Start address
+结束地址,End address
+起始Pack,Start Pack
+结束Pack,End Pack
+有地址超时,Address timeout
+
